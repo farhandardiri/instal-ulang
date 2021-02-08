@@ -1,0 +1,9 @@
+RENCANA APLIKASI ASRAMA DINIYAH NURUL JADID
+
+- Menyambung data pedatren
+ *Rest API
+- Rekapitulasi pelanggaran
+- Absesnsi Guru
+- Absensi peserta didik
+- Menggunakan Vue Js
+- Coba saja dulu
