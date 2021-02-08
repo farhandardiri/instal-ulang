@@ -4,6 +4,7 @@ RENCANA APLIKASI ASRAMA DINIYAH NURUL JADID
  *Rest API
 - Rekapitulasi pelanggaran
 - Absesnsi Guru
+- Rekapitulasi kehadiran guru
 - Absensi peserta didik
 - Menggunakan Vue Js
 - Coba saja dulu
