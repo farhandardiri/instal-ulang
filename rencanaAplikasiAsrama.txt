@@ -1,0 +1,7 @@
+RENCANA APLIKASI ASRAMA DINIYAH NURUL JADID
+
+- Menyambung data pedatren
+- Rekapitulasi pelanggaran
+- Absesnsi Guru
+- Absensi peserta didik
+- Coba saja dulu
