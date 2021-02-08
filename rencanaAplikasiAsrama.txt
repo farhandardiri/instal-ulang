@@ -4,6 +4,7 @@ RENCANA APLIKASI ASRAMA DINIYAH NURUL JADID
  *Rest API
 - Rekapitulasi pelanggaran
 - Absesnsi Guru
+ *Finger Print
 - Rekapitulasi kehadiran guru
 - Absensi siswa
 - Rekapitulasi kehadiran siswa
